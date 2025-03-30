@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\Manufacturer & Wholesaler.exe
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\Manufacturer & Wholesaler.deps.json
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\Manufacturer & Wholesaler.runtimeconfig.json
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\Manufacturer & Wholesaler.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\Manufacturer & Wholesaler.pdb
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\EntityFramework.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\System.Data.SQLite.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\bin\Release\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.AdminForm.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.Form1.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.Form2.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.MainForm.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.ProductDetailsForm.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.RawMaterialsForm.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.RegisterForm.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer___Wholesaler.UsersForm.resources
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.AssemblyInfo.cs
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufact.B6530EE4.Up2Date
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\refint\Manufacturer & Wholesaler.dll
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.pdb
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\Manufacturer & Wholesaler.genruntimeconfig.cache
+C:\Users\User\Desktop\PROJECTS\C# Forms Test && Run\Manufacturer & Wholesaler\obj\Release\net9.0-windows\ref\Manufacturer & Wholesaler.dll
